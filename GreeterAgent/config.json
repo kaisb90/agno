@@ -1,0 +1,16 @@
+{
+    "agent_name": "GreeterAgent",
+    "version": "0.1.0",
+    "description": "An agent that greets a specific user on start.",
+    "tasks": [
+        "greet"
+    ],
+    "tasks_to_run_on_start": [
+        "greet"
+    ],
+    "task_specific_configs": {
+        "greet": {
+            "default_name": "CLI_Tester"
+        }
+    }
+}

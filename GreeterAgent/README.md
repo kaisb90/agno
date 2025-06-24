@@ -1,0 +1,1 @@
+# Agent: GreeterAgent\n\nAn agent that greets a specific user on start.\n\n## To Run This Agent:\n```bash\ncd GreeterAgent\npython agent.py\n```\n
